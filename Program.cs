@@ -9,3 +9,4 @@ int t = 0;
 t=a+b;
 Console.WriteLine($"Итоговая сумма = {t}");
 
+
